@@ -1,0 +1,4 @@
+model_key,model,common_pairs,common_mean_cos_global,common_mean_cos_prefix,common_prefix_scored_pairs
+own_fasttext,Собственный FastText,1058,0.900022831835233,0.9225734509992005,1043
+own_word2vec_lemmas,Собственный Word2Vec по леммам,1058,0.9685908700770827,0.9700416963715338,1043
+own_fasttext_lemmas,Собственный FastText по леммам,1058,0.9887839930945398,0.9871423326196972,1043
